@@ -1,0 +1,13 @@
+body{
+	background-color: transparent;
+}
+
+button{
+	border-color: transparent;
+	background-color: transparent;
+}
+
+h2{
+	background-color: yellow;
+	height: 100px;
+}
